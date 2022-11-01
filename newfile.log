@@ -1,0 +1,9 @@
+2022-11-01 22:32:27,041: DEBUG :-  Using selector: EpollSelector
+2022-11-01 22:33:18,631: DEBUG :-  Using selector: EpollSelector
+2022-11-01 22:33:42,087: DEBUG :-  Inside creating new adress
+2022-11-01 22:33:42,087: WARNING :-  Server error division by zero
+2022-11-01 22:34:04,653: DEBUG :-  Using selector: EpollSelector
+2022-11-01 22:34:06,995: DEBUG :-  Inside creating new adress
+2022-11-01 22:34:06,995: ERROR :-  Server error division by zero
+2022-11-01 22:34:21,045: INFO :-  Inside get all adress
+2022-11-01 22:34:21,050: DEBUG :-  Successfully fetched the records
