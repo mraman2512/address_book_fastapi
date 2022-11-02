@@ -197,6 +197,9 @@ def retrive_address_within_radius(input_json: Retrive, db: Session = Depends(get
     retrive function is mainly used for getting all the address from a center point within a range
     which is radius from a location
     :param input_json: comes from schema where we need radius, long, lat
+    eg. radius = 5, in kms
+        long = 12.813337,
+        lat = 77.578951
     :param db:
     :return: All address within a limited radius.
     '''
